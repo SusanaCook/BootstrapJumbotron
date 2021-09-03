@@ -12,3 +12,7 @@ table, th, td {
   body {
       background-color:rgb(215, 187, 145);
   }
+  .me {
+      color: white;
+      background-color: chocolate;
+  }
